@@ -234,8 +234,8 @@ int main(int args,char * _argc[])
 {
 
 
-	freopen("specialcase4.txt","r",stdin);
-    freopen("specialcase4out.txt","w",stdout);
+	//freopen("input4.in","r",stdin);
+   // freopen("specialcase4out.txt","w",stdout);
 
     ios::sync_with_stdio(false);
 //	int n;

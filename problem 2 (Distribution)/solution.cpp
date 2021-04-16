@@ -10,8 +10,8 @@ ll cill(ll a,ll b)
 
 int main()
 {
-    freopen("input30.txt","r",stdin);
-    freopen("output30.txt","w",stdout);
+    // freopen("input30.txt","r",stdin);
+    // freopen("output30.txt","w",stdout);
     int t;
     cin>>t;
     while(t--)
